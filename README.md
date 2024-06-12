@@ -30,3 +30,25 @@ Movie Recoder 是一款基于 C# 的 WinForm 窗体应用，旨在提供用户�
 •	修改个人信息：修改用户名、年龄、性别等信息
 •	修改密码
 Movie Recoder致力于为电影爱好者提供一个便捷的平台来管理和评价电影，帮助用户更好地组织和计划他们的观影体验。
+
+二、配置要求
+1.	系统要求
+为了确保 Movie Recoder 应用能够顺利运行，请确保您的系统满足以下要求：
+•	操作系统：Windows 10 或以上
+•	.NET Framework：4.7.2 或以上
+•	内存：至少 4GB
+•	硬盘空间：至少 500MB
+•	显示分辨率：建议 1366x768 或更高
+•	SQL Server：SQL Server 2016 或以上版本
+2.	安装 SQL Server
+下载和安装 SQL Server
+（1）	访问 Microsoft SQL Server 下载页面。
+（2）	选择适合的版本（开发版或表达版），下载安装程序。
+（3）	运行安装程序并按照以下步骤进行安装：
+•	选择 “新建 SQL Server 独立安装或添加功能到现有安装”。
+•	在安装向导中，选择默认设置或自定义设置。
+•	安装完成后，记录下 SQL Server 实例名称（例如 SQLEXPRESS）。
+
+下载并安装 SQL Server Management Studio (SSMS)
+（1）	访问 Microsoft SQL Server Management Studio 下载页面。
+（2）	下载并安装最新版本的 SSMS。
