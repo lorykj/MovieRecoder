@@ -1,0 +1,126 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="MovieRecoder.AddMemo">
+    <Position X="1" Y="3.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>CAEAAAAAACAAAQAAAACAAAAKAAAAAAIBAAIAEAhAAAA=</HashCode>
+      <FileName>AddMemo.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MovieRecoder.Collect">
+    <Position X="10.25" Y="3.75" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>CEAAAEAAACgQACAAAACAgEACAAAEAAIAAAAAAAAAAAA=</HashCode>
+      <FileName>Collect.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MovieRecoder.Detail">
+    <Position X="5.5" Y="3.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>CAEBAEMAACAYAAAAAICAAAACAAAIAAIAAAIAAQBAAAE=</HashCode>
+      <FileName>Detail.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MovieRecoder.Findmovies">
+    <Position X="3" Y="3.5" Width="2.25" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>ChFgghCHACAAAQgCQAHAyjTCEQQZgAahQKKAAgBRgDE=</HashCode>
+      <FileName>Findmovies.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MovieRecoder.global">
+    <Position X="7" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAQAAAEBASgAgAAAAAAAAAAAAAAAAAAAE=</HashCode>
+      <FileName>global.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MovieRecoder.Lastest">
+    <Position X="8.25" Y="3.75" Width="1.75" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AhBgghCEACAAAQgCAAGAwjTCAAQQgACBQKIAAADRACE=</HashCode>
+      <FileName>Lastest.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MovieRecoder.Login" Collapsed="true">
+    <Position X="12.5" Y="1.75" Width="3" />
+    <TypeIdentifier>
+      <HashCode>CAAAAAAgACAAAAAIAACAAJACAEAAAA4AACAYIAAAAAI=</HashCode>
+      <FileName>Login.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MovieRecoder.Main">
+    <Position X="15.5" Y="4" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAAAEACAAAACAEAAAAAAAAAAAAAAAAg=</HashCode>
+      <FileName>Main.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MovieRecoder.Memory">
+    <Position X="13" Y="3.75" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>CEBAAAAAACAQACAAAACAgAACAAAEAAYAAAAEIQAAAgA=</HashCode>
+      <FileName>Memory.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MovieRecoder.Myrate">
+    <Position X="8" Y="7" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AEAAAAAAASAQACAAAACAAAACAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Myrate.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MovieRecoder.Personal">
+    <Position X="13.25" Y="5" Width="2.75" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>QRHYAAIAIKAAUCIEAISCgCADAEAAQIABACIKIBBFAAE=</HashCode>
+      <FileName>Personal.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MovieRecoder.Program" Collapsed="true">
+    <Position X="11.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MovieRecoder.Signin" Collapsed="true">
+    <Position X="12.25" Y="1.25" Width="3" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AQDYAAAAIKAAAAIIAAWAgDACAEAAQIQAACACABABAAA=</HashCode>
+      <FileName>Signin.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MovieRecoder.SqlHelper">
+    <Position X="8.75" Y="1" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAACCAAAAAAEAAAAgAAAABAAAAAAAAAAA=</HashCode>
+      <FileName>SqlHelper.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MovieRecoder.Properties.Resources" Collapsed="true">
+    <Position X="13.25" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAABEAAAAQAAAAAAAAAAAAAAAIA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MovieRecoder.Properties.Settings" Collapsed="true">
+    <Position X="11.5" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAIAAAAAARAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Microsoft YaHei UI" Size="9" />
+</ClassDiagram>
