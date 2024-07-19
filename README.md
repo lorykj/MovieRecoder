@@ -31,7 +31,7 @@ Movie Recoder 是一款基于 C# 的 WinForm 窗体应用，旨在提供用户�
 •	修改个人信息：修改用户名、年龄、性别等信息<br/>
 •	修改密码
 Movie Recoder致力于为电影爱好者提供一个便捷的平台来管理和评价电影，帮助用户更好地组织和计划他们的观影体验。
-<div class="box"><img src="./module.png" style:"background-color: #fff;"></div>
+<img src="./Image/module.png">
 
 
 
@@ -57,6 +57,6 @@ Movie Recoder致力于为电影爱好者提供一个便捷的平台来管理和�
 （1）	访问 Microsoft SQL Server Management Studio 下载页面。
 （2）	下载并安装最新版本的 SSMS。<br/>
 数据库结构：
-<img src="./DB.png">
-<img src="./DB_ER_User.png">
-<img src="./DB_ER_Movie.png">
+<img src="./Image/DB.png">
+<img src="./Image/DB_ER_User.png">
+<img src="./Image/DB_ER_Movie.png">
